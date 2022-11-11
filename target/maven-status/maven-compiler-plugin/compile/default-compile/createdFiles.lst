@@ -1,0 +1,6 @@
+org\example\web\dto\BookIdToRemove.class
+org\example\app\config\AppSecurityConfig.class
+org\example\web\controllers\ErrorController.class
+org\example\WebAppInitializer.class
+org\example\app\exceptions\BookShelfLoginException.class
+org\example\web\config\WebContextConfig.class
